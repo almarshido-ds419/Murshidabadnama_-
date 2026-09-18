@@ -26,3 +26,7 @@ Copyright © 2026 Sakib Hossain. All Rights Reserved.
 
 মুর্শিদাবাদনামা
 একটি ইতিহাস। একটি শহর। একটি হারিয়ে যাওয়া যুগের অনুসন্ধান।
+
+
+© 2026 Sakib Hossain. All Rights Reserved.
+The source code and literary content of this project are publicly accessible for viewing and educational reference. No permission is granted for reproduction, modification, redistribution, or commercial use without prior written permission.
